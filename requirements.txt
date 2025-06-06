@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+langchain
+python-dotenv
+pypdf
+unstructured
+unstructured-inference
+pdf2image
+Pillow
+pdfminer.six
+docx2txt
+python-pptx
+pandas
+python-multipart
